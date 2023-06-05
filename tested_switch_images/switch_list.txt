@@ -1,0 +1,2 @@
+viosl2-adventerpriseK9-M_152_May_2018: BAD (Problem with STP interface Role/Status)
+viosl2-adventerprisek9-m.ssa.high_iron_20190423: BAD (Booting constantly. It crashes)
